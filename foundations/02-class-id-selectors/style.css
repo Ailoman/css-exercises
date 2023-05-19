@@ -1,0 +1,20 @@
+.black-on-red {
+    color: black;
+    background-color: #ff00006f;
+}
+
+.bigger {
+    font-size: 1.5em;
+}
+
+#blue-id {
+    color: blue;
+    font-size: 2em;
+}
+
+#black-on-green {
+    font-weight: bold;
+    color: black;
+    background-color: green;
+    font-size: 1.25em;
+}
